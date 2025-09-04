@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS minha_loja
-  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE minha_loja;
 
 DROP TABLE IF EXISTS clientes;
